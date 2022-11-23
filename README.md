@@ -1,2 +1,2 @@
 # minhaPokedex
-projeto educativo da DIO
+Projeto educativo da DIO.
